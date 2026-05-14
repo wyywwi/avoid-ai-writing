@@ -4,6 +4,19 @@ All notable changes to this project are documented here.
 
 ---
 
+## [codex-adaptation] — 2026-05-14
+
+### Added
+- Codex-compatible `agents/openai.yaml` metadata with display name, short description, and default prompt.
+- `AGENTS.md` with repository guidance for Codex maintainers.
+
+### Changed
+- Simplified `SKILL.md` frontmatter to Codex-compatible `name` and `description` fields.
+- Rewrote README installation and triggering instructions around Codex skill directories and `$avoid-ai-writing` invocation.
+- Replaced stale Claude/OpenClaw maintainer guidance with Codex validation guidance.
+
+---
+
 ## [3.3.0] — 2026-04-01
 
 ### Added

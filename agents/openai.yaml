@@ -1,0 +1,4 @@
+interface:
+  display_name: "Avoid AI Writing"
+  short_description: "Audit and rewrite AI-sounding prose"
+  default_prompt: "Use $avoid-ai-writing to audit this draft for AI tells and rewrite it in a more natural voice."
